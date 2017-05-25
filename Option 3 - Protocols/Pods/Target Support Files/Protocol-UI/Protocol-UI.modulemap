@@ -1,0 +1,6 @@
+framework module Protocol_UI {
+  umbrella header "Protocol-UI-umbrella.h"
+
+  export *
+  module * { export * }
+}

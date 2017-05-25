@@ -1,0 +1,10 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'StylingWithProtocols' do
+  # Comment this line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for StylingWithProtocols
+  pod 'Protocol-UI', :git => 'https://github.com/VojtaStavik/ProtocolUI'
+end

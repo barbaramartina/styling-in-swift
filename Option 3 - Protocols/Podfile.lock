@@ -1,0 +1,21 @@
+PODS:
+  - Protocol-UI (0.2)
+
+DEPENDENCIES:
+  - Protocol-UI (from `https://github.com/VojtaStavik/ProtocolUI`)
+
+EXTERNAL SOURCES:
+  Protocol-UI:
+    :git: https://github.com/VojtaStavik/ProtocolUI
+
+CHECKOUT OPTIONS:
+  Protocol-UI:
+    :commit: e946117551d88ac329ad16fb3bfdef1c426b39b8
+    :git: https://github.com/VojtaStavik/ProtocolUI
+
+SPEC CHECKSUMS:
+  Protocol-UI: 1d7d263d5e44b4c9f74546f6955e7b2150e75de6
+
+PODFILE CHECKSUM: 5090713aee095a32ab351fc2b9868d17cd314ea2
+
+COCOAPODS: 1.0.1

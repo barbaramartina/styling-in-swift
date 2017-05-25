@@ -1,0 +1,22 @@
+{
+  "name": "Protocol-UI",
+  "version": "0.2",
+  "license": "MIT",
+  "summary": "Framework for customizing UIKit using protocol extensions.",
+  "homepage": "https://github.com/VojtaStavik/ProtocolUI",
+  "screenshots": "https://raw.githubusercontent.com/Vaberer/Font-Awesome-Swift/master/resources/image1.png",
+  "social_media_url": "http://twitter.com/VojtaStavik",
+  "authors": {
+    "Vojta Stavik": "stavik@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/VojtaStavik/ProtocolUI",
+    "tag": "0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ProtocolUI/*.swift",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}
